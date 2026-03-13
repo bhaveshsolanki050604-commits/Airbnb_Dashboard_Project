@@ -1,4 +1,13 @@
 # Airbnb_Dashboard_Project
+
+## Power BI Dashboard File
+
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted on Google Drive.
+
+Download the dashboard here:
+
+[Download Power BI File]:-  https://drive.google.com/file/d/1fkqOjEvuXYRerVPpKWQaWkfIkG4nm1lJ/view?usp=sharing
+
 Project Overview
 
 This project analyzes Airbnb listing data to understand patterns in pricing, availability, listing distribution, and neighborhood demand. An interactive Power BI dashboard was created to explore market trends and help identify factors influencing listing performance.
