@@ -1,2 +1,4 @@
 # Airbnb_Dashboard_Project
-Interactive Power BI dashboard analyzing Airbnb listings, pricing, availability, and host performance to uncover insights about property trends, customer demand, and market behavior.
+Project Overview
+
+This project analyzes Airbnb listing data to understand patterns in pricing, availability, listing distribution, and neighborhood demand. An interactive Power BI dashboard was created to explore market trends and help identify factors influencing listing performance.
